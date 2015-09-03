@@ -1,0 +1,11 @@
+Hey!
+
+Everythig you need to know is on the Schematic.
+
+Created in Eagle 6.5
+
+Released CC BY-SA 3.0
+
+Have fun!
+
+OSH Park PCB Link:  https://oshpark.com/shared_projects/LZzUhD31
